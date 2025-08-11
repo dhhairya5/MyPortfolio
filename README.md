@@ -1,12 +1,76 @@
-# React + Vite
+# 🌟 My Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Portfolio Preview](preview.png)
 
-Currently, two official plugins are available:
+Welcome to the repository for my **Personal Portfolio Website** — a space where I bring my skills, creativity, and experience together in a visually stunning and interactive design.  
+This portfolio is built to be **modern, smooth, and engaging**, giving visitors a true sense of who I am and what I do. ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
+🔗 **[View My Portfolio](https://dhhairya5.github.io/MyPortfolio)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+| Category        | Technologies |
+|-----------------|--------------|
+| **Frontend Framework** | React.js |
+| **Styling** | Tailwind CSS |
+| **Animations** | GSAP, Framer Motion |
+| **3D Elements** | Spline 3D |
+| **Hosting** | GitHub Pages |
+| **Version Control** | Git & GitHub |
+
+---
+
+## 📸 Features
+- **Responsive Design** – Optimized for desktop, tablet, and mobile  
+- **Smooth Animations** – Powered by GSAP & Framer Motion for a lively feel  
+- **3D Interactivity** – Spline 3D integration for immersive visuals  
+- **Dynamic Project Showcase** – All my key works with detailed descriptions & links  
+- **About Me Section** – Insights into my journey, skills, and passions  
+- **Contact Section** – Easy way for visitors to get in touch  
+
+---
+
+## 📂 Folder Structure
+
+MyPortfolio/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   └── App.jsx
+├── package.json
+├── README.md
+└── tailwind.config.js
+
+---
+
+## ⚡ How to Run Locally
+```bash
+# 1. Clone the repository
+git clone https://github.com/dhhairya5/MyPortfolio.git
+
+# 2. Navigate into the folder
+cd MyPortfolio
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm start
+
+
+📬 Contact Me
+
+📧 Email: dhhairyashukla5@gmail.com
+
+📜 License
+
+This project is licensed under the MIT License — feel free to explore, use, and adapt it with proper credit.
+
+⸻
