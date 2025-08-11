@@ -1,6 +1,6 @@
 # 🌟 My Portfolio Website
 
-![Portfolio Preview](<img width="1437" height="722" alt="project-3" src="https://github.com/user-attachments/assets/36e06517-37ac-4db2-849a-c5adb18b3f37" />)
+![Portfolio Preview](https://github.com/user-attachments/assets/36e06517-37ac-4db2-849a-c5adb18b3f37)
 
 
 Welcome to the repository for my **Personal Portfolio Website** — a space where I bring my skills, creativity, and experience together in a visually stunning and interactive design.  
