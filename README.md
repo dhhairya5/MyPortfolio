@@ -9,7 +9,7 @@ This portfolio is built to be **modern, smooth, and engaging**, giving visitors 
 ---
 
 ## 🚀 Live Demo
-🔗 **[View My Portfolio](my-portfolio-sooty-alpha-28.vercel.app)**
+🔗 **[View My Portfolio](https://my-portfolio-qdf7u9115-dhhairya5s-projects.vercel.app/)**
 
 ---
 
