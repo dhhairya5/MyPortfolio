@@ -23,7 +23,7 @@ const projectImages = [
     id: 3,
     title: "Portfolio Website",
     imageSrc: "/images/project-3.png",
-    href: "https://example.com/suraksha-setu",
+    href: "https://my-portfolio-qdf7u9115-dhhairya5s-projects.vercel.app/",
   }
 ]
 
